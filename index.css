@@ -1,0 +1,52 @@
+#rodape {
+	background-color:#99edc3;
+	height: 200px;
+}
+#logo {
+	height: 150px;
+	width: 150px;
+	position: relative;
+	left: 45%;
+}
+#marcado
+{
+	color: #b2d3c2;
+}
+
+#Geral {
+	width: 500px;
+	font-size: 20px;
+}
+
+.contato  {
+	position: absolute;
+	top: 250px;
+	right: 100px;
+	background-color: #99edc3;
+	height: 130px;
+	width: 300px;
+	
+}
+
+.contato h3 {
+	padding-left: 1.3em;
+}
+
+#rodape ul {
+	list-style: none;
+}
+
+a {
+	display: block;
+	text-decoration: none;
+	float: left;
+	color: #455d1d;
+	padding-right: 2em ;
+	position: relative;
+	left: 43%;
+	font-size: 25px;
+}
+
+span {
+	color: #0000FF;
+}
